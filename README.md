@@ -18,7 +18,7 @@ Notebooks expect either pretrained checkpoints (Fig 2) or results from the train
 
 | Path | Description |
 |------|-------------|
-| **fig2_vafa_spatial_map/** | Spatial map / VAFA analysis. Loads a pretrained checkpoint and analyzes representations. **Requires checkpoint** (see below). |
+| **fig2_vafa_spatial_map/** | Spatial map analysis of the pretrained transformer by Vafa et al. Loads a pretrained checkpoint and analyzes representations. **Requires checkpoint** (see below). |
 | **fig3a_1d_sine_wave_embedding_evolution.ipynb** | 1D sine wave: embedding evolution over training. |
 | **fig3b_1d_sine_wave_scaling_law.ipynb** | 1D sine wave: scaling law analysis. Uses results from `sine.py`. |
 | **fig4_kepler_noisy_context_learning.ipynb** | Kepler: noisy context learning. |
