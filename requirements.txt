@@ -1,0 +1,12 @@
+# Newton–Kepler: required packages
+# Python 3.8+ recommended
+
+torch>=2.0
+numpy
+scipy
+matplotlib
+scikit-learn
+pyyaml
+
+# Optional: progress bars (scripts fall back if not installed)
+tqdm
