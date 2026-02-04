@@ -36,7 +36,7 @@ Notebooks expect either pretrained checkpoints (Fig 2) or results from the train
 
 The **fig2_vafa_spatial_map** analysis loads a pretrained checkpoint. If `./ckpt` or `./ckpt.pt` is missing, the notebook will raise an error and ask you to download it.
 
-1. Download the pretrained checkpoint (e.g. `ckpt.pt`) from the project’s release or documentation (e.g. the Google Drive folder linked in the notebook error message).
+1. Download the pretrained checkpoint (e.g. `ckpt.pt`) from [inductivebiasprobe repo](https://github.com/keyonvafa/inductive-bias-probes) or their [Google Drive link](https://drive.google.com/drive/folders/1qfdwQE2LpeZ1shGyrbX5y4xwze-DLbCF).
 2. Place the file in **fig2_vafa_spatial_map/** as `./ckpt.pt`, or place the checkpoint file(s) in a `./ckpt/` folder there.
 3. Re-run the notebook.
 
