@@ -44,7 +44,7 @@ Run the notebook from **fig2_vafa_spatial_map/** so that `./ckpt.pt` is in the c
 
 ## Quick start
 
-**Self-contained notebooks**
+**Small toy models you can quickly train on a CPU**
 * `fig3a_*.ipynb` contains a 1D sine-wave example.
 * `fig4_*.ipynb` contains a 2D Kepler example. 
 
