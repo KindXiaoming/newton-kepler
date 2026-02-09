@@ -6,9 +6,9 @@ Summary: [Vafa et al.](https://arxiv.org/abs/2507.06952) showed that a transform
 
 <img width="1060" height="719" alt="intro-plot" src="https://github.com/user-attachments/assets/b3223bb1-3dc2-4744-9278-8acc0eb6da0c" />
 
-Experiments and analysis for probing inductive biases of transformers on physics-inspired tasks: **1D sine waves** and **2D Kepler orbits** (Newtonian gravity).
-
 ## Overview
+
+Experiments and analysis for probing inductive biases of transformers on physics-inspired tasks: **1D sine waves** and **2D Kepler orbits** (Newtonian gravity).
 
 This folder contains:
 
