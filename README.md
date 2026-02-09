@@ -4,6 +4,8 @@ This is the github repo for the paper ["From Kepler to Newton: Inductive Biases 
 
 Summary: [Vafa et al.](https://arxiv.org/abs/2507.06952) showed that a transformer can predict planetary motion (e.g., Earth orbiting the Sun) remarkably well, even though its internal representations do not explicitly encode gravitational forces. Does this mean transformers are not valid world models? **No.** In fact, our new paper shows that sometimes the transformer is learning a *Keplerian world model*, rather than a *Newtonian world model*. Even more intriguingly, when we replace full-context attention with *local attention* (i.e., reduce the context length), the transformer begins to behave like a **Newtonian world model**. As the context length is varied, we observe a sharp and fascinating *phase transition* between these two types of world models.
 
+For more discussion about the implications for world models, read this [blog](https://kindxiaoming.github.io/blog/2026/kepler-newton/).
+
 <img width="1060" height="719" alt="intro-plot" src="https://github.com/user-attachments/assets/b3223bb1-3dc2-4744-9278-8acc0eb6da0c" />
 
 ## Overview
